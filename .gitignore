@@ -1,5 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+
+/useDateHook.js
+/fetchHook.js
+/day2.js
+/day1.js
+
 # dependencies
 /node_modules
 /.pnp
