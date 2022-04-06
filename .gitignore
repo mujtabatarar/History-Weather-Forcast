@@ -1,10 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 
-/useDateHook.js
-/fetchHook.js
-/day2.js
-/day1.js
+
 
 # dependencies
 /node_modules
@@ -15,7 +12,11 @@
 /coverage
 
 # production
-/build
+!/build
+src/useDateHook.js
+src/fetchHook.js
+src/day2.js
+src/day1.js
 
 # misc
 .DS_Store
